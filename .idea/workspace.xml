@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43bbf57b-3a6d-4d2d-bd2b-e90f782ed80b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/README.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +19,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -38,22 +39,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608744803890</updated>
-      <workItem from="1608744807917" duration="533000" />
+      <workItem from="1608744807917" duration="1020000" />
     </task>
+    <task id="LOCAL-00001" summary="Initiated project . Implemneted basic version of README file">
+      <created>1608745575813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608745575813</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initiated project . Implemneted basic version of README file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initiated project . Implemneted basic version of README file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="93" key="#Project_Structure" timestamp="1608744823263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="93" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1608744823263" />
-    <state x="819" y="415" key="Github.ShareDialog" timestamp="1608745149471">
+    <state x="598" y="87" key="CommitChangelistDialog2" timestamp="1608745575245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608745149471" />
+    <state x="598" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608745575245" />
+    <state x="752" y="260" key="FileChooserDialogImpl" timestamp="1608745729797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608745729797" />
+    <state x="819" y="415" key="Github.ShareDialog" timestamp="1608745715453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608745715453" />
+    <state x="564" y="251" key="Vcs.Push.Dialog.v2" timestamp="1608745815849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="564" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608745815849" />
     <state x="635" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1608745068821">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

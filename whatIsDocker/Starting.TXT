@@ -1,0 +1,17 @@
+Docker is a standard for Linux containers.
+
+A “Container” - is an isolated runtime inside of Linux.
+A “Container” provides a private machine like space under Linux.
+Containers will run under any modern Linux Kernel
+
+
+Containers can :
+1)Have their own process space.
+2)Have their own network interface.
+3)‘Run’ processes as root (inside the container)
+4)Have their own disk space.
+
+Container is not a Virtual Machine!
+Each Virtual machine has it own guest operating system , with it's own binaries and libraries and own application .
+On the Docker guest operating system do not exist , it is running on the operating system of the host machine .
+Difference of how much you may utilize is about 30 - 40% .

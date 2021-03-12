@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43bbf57b-3a6d-4d2d-bd2b-e90f782ed80b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/whatIsDocker/Starting.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatIsDocker/dockerEngineRuntime.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/README.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whatIsDocker/Starting.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/whatIsDocker/Starting.TXT" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Spring\VI\introductionToDocker\whatIsDocker" />
       <recent name="C:\Spring\VI\introductionToDocker" />
     </key>
   </component>
@@ -55,7 +58,7 @@
       <workItem from="1608745853176" duration="252000" />
       <workItem from="1613338920313" duration="19000" />
       <workItem from="1614715314185" duration="12000" />
-      <workItem from="1615488588887" duration="2120000" />
+      <workItem from="1615488588887" duration="3763000" />
     </task>
     <task id="LOCAL-00001" summary="Initiated project . Implemneted basic version of README file">
       <created>1608745575813</created>
@@ -85,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615490507208</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Version 0.2 Added first peace of information regarding Docker app .">
+      <created>1615491533654</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615491533654</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +106,8 @@
     <MESSAGE value="Set of system data" />
     <MESSAGE value="Small refactor" />
     <MESSAGE value="Version 0.1 Updated README.TXT regarding first folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 0.1 Updated README.TXT regarding first folder" />
+    <MESSAGE value="Version 0.2 Added first peace of information regarding Docker app ." />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 0.2 Added first peace of information regarding Docker app ." />
   </component>
   <component name="WindowStateProjectService">
     <state x="618" y="177" key="#Deployment" timestamp="1608745951469">
@@ -111,10 +122,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="670" y="762" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1615490713787" />
-    <state x="598" y="87" key="CommitChangelistDialog2" timestamp="1615490505851">
+    <state x="598" y="87" key="CommitChangelistDialog2" timestamp="1615491532694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="598" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615490505851" />
+    <state x="598" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615491532694" />
     <state x="752" y="260" key="FileChooserDialogImpl" timestamp="1608745729797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -123,10 +134,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608745715453" />
-    <state x="564" y="251" key="Vcs.Push.Dialog.v2" timestamp="1615490516855">
+    <state x="564" y="251" key="Vcs.Push.Dialog.v2" timestamp="1615491535412">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="564" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615490516855" />
+    <state x="564" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615491535412" />
     <state x="781" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608745973248">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

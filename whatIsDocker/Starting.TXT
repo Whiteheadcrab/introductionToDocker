@@ -12,6 +12,18 @@ Containers can :
 4)Have their own disk space.
 
 Container is not a Virtual Machine!
-Each Virtual machine has it own guest operating system , with it's own binaries and libraries and own application .
-On the Docker guest operating system do not exist , it is running on the operating system of the host machine .
+Each Virtual machine has it own guest operating system , with it's
+own binaries and libraries and own application .
+On the Docker guest operating system do not exist ,
+it is running on the operating system of the host machine .
 Difference of how much you may utilize is about 30 - 40% .
+
+Docker Terminology :
+• Docker Image - The representation of a Docker Container. Kind of
+like a JAR or WAR file in Java.
+• Docker Container - The standard runtime of Docker. Effectively a
+deployed and running Docker Image. Like a Spring Boot Executable
+JAR.
+• Docker Engine - The code which manages Docker stuff. Creates
+and runs Docker Containers.
+

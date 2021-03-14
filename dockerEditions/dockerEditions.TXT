@@ -1,0 +1,31 @@
+Docker has now 2 editons :
+- Docker Enterprise edition
+- Docker Community edition
+
+Docker Enterprise edition :
+• Announced March 2nd, 2017
+• CaaS (Container as a Service) platform subscription
+• Enterprise class support
+• Quarterly Releases
+• Backported patches for 1 year
+• Certified Infrastructure
+
+Docker Community edition :
+• Free Docker edition for developers and operations.
+• Monthly ‘edge’ release with latest features for developers.
+• Quarterly releases for operations
+
+Docker Version Numbering :
+• Docker version 1.13.1 was last Docker pre-edition Docker Release
+• First Docker Enterprise and Community Edition Release is Docker
+version 17.03.
+• Going forward Docker will use release number of year dot month
+then version dot edition. (yy.mm.v.ed).
+
+Which edition select for Java :
+• Functionally, the two editions are the same
+• Like CentOS vs Red Hat Enterprise Linux
+• Generally, Java developers should be fine using the Docker
+Community Edition
+• Docker Enterprise Edition is not available on some commercial
+operating systems such as RHEL or SUSE.

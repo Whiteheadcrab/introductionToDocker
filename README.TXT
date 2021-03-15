@@ -3,3 +3,4 @@ This project is repository which has been created for collecting and storing mat
 Set of folders :
 whatisDocker - basic information regarding Docker application (txt file with information + graphic illustration of Docker Engine runtime )
 dockerEditions - describing of editions of Docker
+dockerInstalling - step by step plan how to install docker

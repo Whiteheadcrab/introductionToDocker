@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43bbf57b-3a6d-4d2d-bd2b-e90f782ed80b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dockerEditions/dockerReleases.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dockerInstalling/dockerInstalling.TXT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockerEditions/dockerEditions.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/dockerEditions/dockerEditions.TXT" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,8 @@
       <workItem from="1614715314185" duration="12000" />
       <workItem from="1615488588887" duration="4391000" />
       <workItem from="1615659853413" duration="1264000" />
-      <workItem from="1615750084015" duration="1804000" />
+      <workItem from="1615750084015" duration="2525000" />
+      <workItem from="1615813999011" duration="1761000" />
     </task>
     <task id="LOCAL-00001" summary="Initiated project . Implemneted basic version of README file">
       <created>1608745575813</created>
@@ -111,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615660396953</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Version 1.1 Added material to dockerEditions folder">
+      <created>1615753733340</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615753733341</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +132,8 @@
     <MESSAGE value="Version 0.2 Added first peace of information regarding Docker app ." />
     <MESSAGE value="Version 0.3 Completed first introduction part" />
     <MESSAGE value="Version 1.0 Created folder for information regarding Docker Editions . Also updated README.TXT" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 1.0 Created folder for information regarding Docker Editions . Also updated README.TXT" />
+    <MESSAGE value="Version 1.1 Added material to dockerEditions folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1.1 Added material to dockerEditions folder" />
   </component>
   <component name="WindowStateProjectService">
     <state x="618" y="177" key="#Deployment" timestamp="1608745951469">
@@ -140,10 +148,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="670" y="762" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1615490713787" />
-    <state x="598" y="87" key="CommitChangelistDialog2" timestamp="1615660395739">
+    <state x="598" y="87" key="CommitChangelistDialog2" timestamp="1615753732441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="598" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615660395739" />
+    <state x="598" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615753732441" />
     <state x="752" y="260" key="FileChooserDialogImpl" timestamp="1608745729797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -152,10 +160,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608745715453" />
-    <state x="564" y="251" key="Vcs.Push.Dialog.v2" timestamp="1615660500618">
+    <state x="564" y="251" key="Vcs.Push.Dialog.v2" timestamp="1615753734620">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="564" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615660500618" />
+    <state x="564" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615753734620" />
     <state x="781" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608745973248">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

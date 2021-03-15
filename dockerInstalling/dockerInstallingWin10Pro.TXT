@@ -1,0 +1,36 @@
+Process for Win10 (with Hyper-V feature available)
+
+At first need enable option "Type Windows Features On and Off"
+1) Open Windows search menu and type "Type Windows Features On and Off"
+
+2)Select "Type Windows Features On and Off"
+
+3) In the appeared small window please check that Hyper V option is enabled
+
+4) Restart PC
+
+Now , we need to installing Docker itself
+1) Create new account for docker on https://hub.docker.com/signup
+
+2) After creating account need to verify it , on the email , whcih you used to registration , will appear mail with link
+
+3) Sign on
+
+4) Move to page https://hub.docker.com/editions/community/docker-ce-desktop-windows and select "Get Docker"
+
+5) Start downloaded file and select "Run"
+
+6) Perform installing by appeared options
+
+7) After installation will finish please start it and login
+
+After installing need to select settings for it
+1) At the bottom right corner of your screen, click on the Docker icon and select “Settings”
+
+2) Select "Shared Devices"
+
+3) Enable your disks , which you will use for Docker
+
+4) In tab "Advanced" please select required amount of memory for correct work of Docker
+
+Now it is installed on Win10Pro

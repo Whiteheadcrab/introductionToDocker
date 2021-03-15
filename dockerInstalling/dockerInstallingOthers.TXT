@@ -1,0 +1,14 @@
+Process for Win7/8/10 Home (without Hyper-V feature available)
+Fot those need Docker Toolbox
+
+1)Download docker tool box form this repository https://github.com/docker/toolbox/releases
+
+Last version of File for download -  DockerToolbox-19.03.1.exe
+
+2) Start installing by using downloaded file .
+
+3) Run Docker Quickstart Terminal exe
+
+4) Wait until all installation will be completed ( will appear Moby,the whale of Docker!, which mean that installation has been performed successfully)
+
+5) You have successfully installed Docker on Windows 7/8 and 10 Home.

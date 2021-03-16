@@ -1,0 +1,5 @@
+Docker Hub is a public Docker registry , which has a lots pf Docker images . tha we can pull down by our local system.
+By default Docker will search for a image in Docker Hub.
+Has possibility to search by key tags .
+Docker Hub - perfect repository with images with Docker commands .
+

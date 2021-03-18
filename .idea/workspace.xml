@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43bbf57b-3a6d-4d2d-bd2b-e90f782ed80b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dockerComponents/DockerHub.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dockerComponents/KiteMatic.TXT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,8 @@
       <workItem from="1615659853413" duration="1264000" />
       <workItem from="1615750084015" duration="2525000" />
       <workItem from="1615813999011" duration="4016000" />
-      <workItem from="1615921288653" duration="617000" />
+      <workItem from="1615921288653" duration="1990000" />
+      <workItem from="1616094364795" duration="290000" />
     </task>
     <task id="LOCAL-00001" summary="Initiated project . Implemneted basic version of README file">
       <created>1608745575813</created>
@@ -133,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615833501012</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Version 3.0 Added dockerComponents folder in which described Docker Hub , also updated README.TXT">
+      <created>1615922080985</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1615922080986</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +158,8 @@
     <MESSAGE value="Version 1.1 Added material to dockerEditions folder" />
     <MESSAGE value="Version 2.0 Updated README.TXT regarding plans of installing Docker" />
     <MESSAGE value="Version 2.1 Created 2 plans for installing docker on Windows 7/8/10 Home edition and for Windows 10 PRO" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 2.1 Created 2 plans for installing docker on Windows 7/8/10 Home edition and for Windows 10 PRO" />
+    <MESSAGE value="Version 3.0 Added dockerComponents folder in which described Docker Hub , also updated README.TXT" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 3.0 Added dockerComponents folder in which described Docker Hub , also updated README.TXT" />
   </component>
   <component name="WindowStateProjectService">
     <state x="618" y="177" key="#Deployment" timestamp="1608745951469">
@@ -165,10 +174,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="670" y="762" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1615490713787" />
-    <state x="598" y="87" key="CommitChangelistDialog2" timestamp="1615833500118">
+    <state x="598" y="87" key="CommitChangelistDialog2" timestamp="1615922079854">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="598" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615833500118" />
+    <state x="598" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615922079854" />
     <state x="752" y="260" key="FileChooserDialogImpl" timestamp="1608745729797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -177,10 +186,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="819" y="415" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608745715453" />
-    <state x="564" y="251" key="Vcs.Push.Dialog.v2" timestamp="1615833502461">
+    <state x="564" y="251" key="Vcs.Push.Dialog.v2" timestamp="1615922082518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="564" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615833502461" />
+    <state x="564" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615922082518" />
     <state x="781" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608745973248">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
